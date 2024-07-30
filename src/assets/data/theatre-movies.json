@@ -1,0 +1,58 @@
+[
+    {
+      "id": 11,
+      "name": "Turbo",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Turbo_Poster.jpg/220px-Turbo_Poster.jpg",
+      "rating": 7.2,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Thalavan",
+      "cover": "https://m.media-amazon.com/images/M/MV5BODhlZTkxODktMzRjZS00Y2RhLTgzZGMtNDcwZWExMWM4MThmXkEyXkFqcGdeQXVyMjUzMTMxNTU@._V1_.jpg",
+      "rating": 7.8,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Garudan",
+      "cover": "https://m.media-amazon.com/images/M/MV5BMzU3ZjQwOWQtYzljNi00NzRjLWE0MDgtMGRmZmI5MTcwNjdjXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_FMjpg_UX1000_.jpg",
+      "rating": 7.8,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Haikyuu!! The Dumpster Battle",
+      "cover": "https://m.media-amazon.com/images/M/MV5BMWY1NGMxZTktNjQ4NC00ZmFjLTg5NjQtZGQxY2I5ZDY0NjhmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "rating": 8.5,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Bad boys ride or die",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/8/8b/Bad_Boys_Ride_or_Die_%282024%29_poster.jpg",
+      "rating": 6.5,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Guruvayoor Ambalanadayil",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/c/c8/Guruvayoor_Ambalanadayil.jpg",
+      "rating": 7.1,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Furiosa a mad max saga",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Furiosa_A_Mad_Max_Saga.jpg/220px-Furiosa_A_Mad_Max_Saga.jpg",
+      "rating": 8.2,
+      "reviews": [
+      ]
+    }
+  ]

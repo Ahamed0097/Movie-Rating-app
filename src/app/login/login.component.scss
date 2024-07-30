@@ -1,0 +1,192 @@
+
+
+
+
+
+
+
+// :host {
+//     display: flex;
+//     align-items: center;
+//     justify-content: center;
+//     height: 100vh; /* Full viewport height */
+//     width: 100vw; /* Full viewport width */
+//     background: url('../../assets/filim2.jpeg') no-repeat center center fixed;
+//     background-repeat: no-repeat;
+//     background-size: 1300px 700px;
+//     font-family: Arial, sans-serif;
+//     background-color: black;
+// }
+
+// .container {
+//     position: relative;
+//     display: flex;
+//     align-items: center;
+//     justify-content: center;
+//     flex-direction: column;
+//     color: white;
+//     height: 100%;
+//     width: 100%;
+// }
+
+// .logo {
+//     position: absolute;
+//     top: 20px;
+//     right: 20px;
+//     font-size: 70px;
+//     font-weight: bold;
+//     font-family: 'Times New Roman', Times, serif;
+//     letter-spacing: 10px;
+//     color: gold;
+//     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+// }
+
+
+// .login-container {
+//     display: flex;
+//     justify-content: center;
+//     align-items: center;
+//     flex-direction: column;
+//     padding: 20px;
+//     background: rgba(0, 0, 0, 0.7); /* Semi-transparent black background */
+//     border-radius: 10px;
+    
+// }
+
+// .login-form {
+//     width: 400px;
+//     padding: 30px;
+//     background-color: #fff;
+//     border-radius: 10px;
+//     box-shadow: 5px 5px 20px #383838;
+//     color: black;
+// }
+
+// .form-group {
+//     margin-top: 20px;
+// }
+
+// .label {
+//     font-weight: bold;
+// }
+
+// .btn-container .btn {
+//     margin-top: 30px;
+//     width: 100%;
+//     padding: 10px;
+//     font-size: 16px;
+// }
+
+// .error {
+//     color: red;
+// }
+
+
+
+:host {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Full viewport height */
+    width: 100vw; /* Full viewport width */
+    background: url('../../assets/filim2.jpeg') no-repeat center center fixed; 
+    background-repeat: no-repeat;
+        background-size:auto;
+        font-family: Arial, sans-serif;
+        background-color: black;
+}
+
+.container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    height: 100%;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.logo {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-size: 5vw; /* Responsive font size */
+    font-weight: bold;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 0.5vw;
+    color: gold;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    width: 100%;
+    max-width: 500px; /* Limits the width to 500px */
+    box-sizing: border-box;
+}
+
+.login-form {
+    width: 100%;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.85); /* Semi-transparent white background */
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5); /* Adjust shadow for better visibility */
+    color: black;
+    box-sizing: border-box;
+}
+
+.form-group {
+    margin-top: 20px;
+    width: 100%;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.btn-container .btn {
+    margin-top: 30px;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.error {
+    color: red;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .logo {
+        font-size: 7vw; /* Larger font size for smaller screens */
+        letter-spacing: 1vw;
+    }
+    .login-form {
+        padding: 15px;
+    }
+    .btn-container .btn {
+        padding: 8px;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 480px) {
+    .logo {
+        font-size: 9vw; /* Even larger font size for very small screens */
+        letter-spacing: 1.5vw;
+    }
+    .login-form {
+        padding: 10px;
+    }
+    .btn-container .btn {
+        padding: 6px;
+        font-size: 12px;
+    }
+}

@@ -1,0 +1,64 @@
+[
+    {
+      "id": 17,
+      "name": "12th Fail",
+      "cover": "https://images.justwatch.com/poster/310338233/s718/12th-fail.jpg",
+      "rating": 8.5,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Kannur Squad",
+      "cover": "https://m.media-amazon.com/images/M/MV5BNTMxZTQ1ZmEtOWM3Ny00MGQzLTgyMjgtZGMzNDM0YjVhZjMzXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg",
+      "rating": 7.5,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Premalu",
+      "cover": "https://m.media-amazon.com/images/M/MV5BYTA0OWQwYzYtNTU3MS00M2Y5LTlmZWEtYmMzN2VmZWExNGQwXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_.jpg",
+      "rating": 8.3,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 20,
+      "name": "The Railway Men",
+      "cover": "https://m.media-amazon.com/images/M/MV5BZjg2YjU0MTEtMGYyNy00OWI1LTk2MDgtMDFkNmMwYWFjZTY5XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+      "rating": 8.7,
+      "reviews": [
+        {
+          "author": "Albus Dumbledore",
+          "published_on": "2021-10-13 11:27:39",
+          "review": "Awesome movie!",
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Aavesham",
+      "cover": "https://m.media-amazon.com/images/M/MV5BYTA0YTgxNWUtYjllOS00MWNhLTk3MTQtYjQ1N2RmNTZjYzI2XkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_FMjpg_UX1000_.jpg",
+      "rating": 7.3,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Manjummel Boys",
+      "cover": "https://preview.redd.it/manjummel-boys-%E0%B4%AE%E0%B4%9E-%E0%B4%9E-%E0%B4%AE-%E0%B4%AE%E0%B5%BD-%E0%B4%AC-%E0%B4%AF-%E0%B4%B8-february-22-2024-official-v0-ftm1ssuk9zjc1.jpeg?width=1080&crop=smart&auto=webp&s=834311ae2252f12c6c3ab9d5ba50ff120ce06479",
+      "rating": 7.5,
+      "reviews": [
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Animal",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/9/90/Animal_%282023_film%29_poster.jpg",
+      "rating": 6.5,
+      "reviews": [
+      ]
+    }
+  ]
